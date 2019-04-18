@@ -2,6 +2,7 @@
 
 Collection of explanations about why you should or should not do things.
 
+- [Fallacies of distributed computing](https://en.wikipedia.org/wiki/Fallacies_of_distributed_computing)
 - [Newline at End of File](https://thoughtbot.com/blog/no-newline-at-end-of-file)
 - [Test Automation](https://martinfowler.com/articles/practical-test-pyramid.html#TheImportanceOftestAutomation)
 - [Cost of slow tests/lack of automation](https://pythonspeed.com/articles/high-cost-slow-tests/)
