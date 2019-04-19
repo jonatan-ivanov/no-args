@@ -11,3 +11,4 @@ Collection of explanations about why you should or should not do things.
   - [original tweet from @venkat_s](https://twitter.com/venkat_s/status/611119147586600960)
   - [Get a Taste of Lambdas and Get Addicted to Streams by Venkat Subramaniam](https://www.youtube.com/watch?v=1OpAgZvYXLQ&t=39m58s)
 - ["Shared mutability is devils work"](https://www.youtube.com/watch?v=1OpAgZvYXLQ&t=1h45m29s)
+- [The Best Code is No Code At All](https://blog.codinghorror.com/the-best-code-is-no-code-at-all/)
