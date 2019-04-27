@@ -24,3 +24,4 @@ Collection of explanations about why you should or should not do things.
   - [Web API Design: HATEOAS](https://howtotrainyourjava.com/2018/08/08/web-api-design-part-eight-hateoas/)
   - [Web API Design: Versioning](https://howtotrainyourjava.com/2018/09/30/web-api-design-part-nine-versioning/)
   - [Web API Design: Management](https://howtotrainyourjava.com/2018/12/20/web-api-design-part-ten-management/)
+- ["The design process is an iterative one"](https://twitter.com/ArchiThinkery/status/1048295623055872002)
