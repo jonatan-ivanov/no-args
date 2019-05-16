@@ -26,3 +26,6 @@ Collection of explanations about why you should or should not do things.
   - [Web API Design: Management](https://howtotrainyourjava.com/2018/12/20/web-api-design-part-ten-management/)
 - ["The design process is an iterative one"](https://twitter.com/ArchiThinkery/status/1048295623055872002)
 - [Downhill Invention Uphill Analysis](https://www.youtube.com/watch?v=nVRUv30coyA#t=31m09s)
+- Measuring Latency
+  - [How NOT to Measure Latency](https://www.youtube.com/watch?v=lJ8ydIuPFeU)
+  - [Latency Tip Of The Day](https://latencytipoftheday.blogspot.com/2014/06/latencytipoftheday-q-whats-wrong-with_21.html)
