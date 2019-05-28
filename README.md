@@ -29,3 +29,13 @@ Collection of explanations about why you should or should not do things.
 - Measuring Latency
   - [How NOT to Measure Latency](https://www.youtube.com/watch?v=lJ8ydIuPFeU)
   - [Latency Tip Of The Day](https://latencytipoftheday.blogspot.com/2014/06/latencytipoftheday-q-whats-wrong-with_21.html)
+- Things that are more expensive than you would think
+  - [Technical Debt](https://martinfowler.com/bliki/TechnicalDebt.html)
+  - [Poor Quality Software](https://www.it-cisq.org/the-cost-of-poor-quality-software-in-the-us-a-2018-report/)
+    - [Error Cost Calculator](https://calculator.overops.com/cost-of-an-error)
+    - [Cost of Errors](https://blog.overops.com/application-errors-are-they-costing-you-more-than-you-thought/)
+    - [Cost of Technical Debt](https://blog.overops.com/report-technical-debt-is-costing-you-more-than-you-think/)
+    - [Cost of Poor Quality Software](https://blog.overops.com/how-much-is-poor-quality-software-costing-you/)
+  - [Meetings](http://attentiv.com/amrica-meets-a-lot/)
+    - [Three-day no-meeting schedule at Pinterest](https://medium.com/@Pinterest_Engineering/three-day-no-meeting-schedule-for-engineers-fca9f857a567)
+    - [What Jason Fried's calendar looks like as the CEO of Basecamp](https://m.signalvnoise.com/what-my-calendar-looks-like/)
