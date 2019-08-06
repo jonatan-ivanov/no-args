@@ -36,6 +36,7 @@ Collection of explanations about why you should or should not do things.
     - [Cost of Errors](https://blog.overops.com/application-errors-are-they-costing-you-more-than-you-thought/)
     - [Cost of Technical Debt](https://blog.overops.com/report-technical-debt-is-costing-you-more-than-you-think/)
     - [Cost of Poor Quality Software](https://blog.overops.com/how-much-is-poor-quality-software-costing-you/)
+    - [Calculating The Cost of Software Quality in Your Organization](https://blog.overops.com/calculating-the-cost-of-software-quality-in-your-organization/)
   - [Meetings](http://attentiv.com/amrica-meets-a-lot/)
     - [Three-day no-meeting schedule at Pinterest](https://medium.com/@Pinterest_Engineering/three-day-no-meeting-schedule-for-engineers-fca9f857a567)
     - [What Jason Fried's calendar looks like as the CEO of Basecamp](https://m.signalvnoise.com/what-my-calendar-looks-like/)
