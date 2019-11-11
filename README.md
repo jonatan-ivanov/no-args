@@ -40,3 +40,8 @@ Collection of explanations about why you should or should not do things.
   - [Meetings](http://attentiv.com/amrica-meets-a-lot/)
     - [Three-day no-meeting schedule at Pinterest](https://medium.com/@Pinterest_Engineering/three-day-no-meeting-schedule-for-engineers-fca9f857a567)
     - [What Jason Fried's calendar looks like as the CEO of Basecamp](https://m.signalvnoise.com/what-my-calendar-looks-like/)
+- Whiteboard interviews
+  - [@dhh](https://twitter.com/dhh/status/834146806594433025)
+  - [Foursquare's Interview Process](https://enterprise.foursquare.com/intersections/article/improving-our-engineering-interview-process/)
+
+
