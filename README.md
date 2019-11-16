@@ -3,6 +3,7 @@
 Collection of explanations about why you should or should not do things.
 
 - [Fallacies of distributed computing](https://en.wikipedia.org/wiki/Fallacies_of_distributed_computing)
+- [You must always close Java streams](https://vimeo.com/364039638#t=40m32s) ([extended demo](https://vimeo.com/364039638#t=35m58s))
 - [Newline at End of File](https://thoughtbot.com/blog/no-newline-at-end-of-file)
 - [Test Automation](https://martinfowler.com/articles/practical-test-pyramid.html#TheImportanceOftestAutomation)
 - [Cost of slow tests/lack of automation](https://pythonspeed.com/articles/high-cost-slow-tests/)
