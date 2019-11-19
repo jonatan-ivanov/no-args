@@ -44,4 +44,5 @@ Collection of explanations about why you should or should not do things.
 - Whiteboard interviews
   - [@dhh](https://twitter.com/dhh/status/834146806594433025)
   - [Foursquare's Interview Process](https://enterprise.foursquare.com/intersections/article/improving-our-engineering-interview-process/)
+  - [The Honeycomb Hiring Experiment](https://www.honeycomb.io/blog/observations-on-the-enterprise-of-hiring/)
 - [An Engineer’s Bill Of Rights (And Responsibilities)](https://charity.wtf/2018/03/30/an-engineers-bill-of-rights-and-responsibilities/)
