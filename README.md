@@ -47,3 +47,12 @@ Collection of explanations about why you should or should not do things.
   - [Foursquare's Interview Process](https://enterprise.foursquare.com/intersections/article/improving-our-engineering-interview-process/)
   - [The Honeycomb Hiring Experiment](https://www.honeycomb.io/blog/observations-on-the-enterprise-of-hiring/)
 - [An Engineer’s Bill Of Rights (And Responsibilities)](https://charity.wtf/2018/03/30/an-engineers-bill-of-rights-and-responsibilities/)
+- You should update your JDK
+  - [JEPs](https://advancedweb.hu/a-categorized-list-of-all-java-and-jvm-features-since-jdk-8-to-14/)
+  - [Java Almanac](https://javaalmanac.io/)
+  - [55 New Features in JDK 9](https://www.azul.com/presentation/55-new-features-jdk-9/)
+  - [109 New Features in JDK 10](https://www.azul.com/109-new-features-in-jdk-10/)
+  - [90 New Features in JDK 11](https://www.azul.com/90-new-features-and-apis-in-jdk-11/)
+  - [39 New Features in JDK 12](https://www.azul.com/39-new-features-and-apis-in-jdk-12/)
+  - [81 New Features in JDK 13](https://www.azul.com/81-new-features-and-apis-in-jdk-13/)
+  - [80 New Features in JDK 14](https://www.azul.com/whats-new-in-jdk14-latest-release/)
