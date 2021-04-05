@@ -57,3 +57,5 @@ Collection of explanations about why you should or should not do things.
   - [39 New Features in JDK 12](https://www.azul.com/39-new-features-and-apis-in-jdk-12/)
   - [81 New Features in JDK 13](https://www.azul.com/81-new-features-and-apis-in-jdk-13/)
   - [80 New Features in JDK 14](https://www.azul.com/whats-new-in-jdk14-latest-release/)
+  - [64 New Features in JDK 15](https://www.azul.com/jdk-15-release-64-new-features-and-apis/)
+  - [67 New Features in JDK 16](https://www.azul.com/67-new-features-in-jdk-16/)
